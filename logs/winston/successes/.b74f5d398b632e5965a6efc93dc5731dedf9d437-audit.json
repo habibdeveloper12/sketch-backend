@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Important\\HK\\task-backend\\logs\\winston\\successes\\.b74f5d398b632e5965a6efc93dc5731dedf9d437-audit.json",
+    "files": [
+        {
+            "date": 1701022579362,
+            "name": "F:\\Important\\HK\\task-backend\\logs\\winston\\successes\\phu-2023-27-11-00-success.log",
+            "hash": "dcc79dd95531fbb4857eae5ce2ee24f450e1694d947863a1aba7a17792a75dc2"
+        },
+        {
+            "date": 1701025328212,
+            "name": "F:\\Important\\HK\\task-backend\\logs\\winston\\successes\\phu-2023-27-11-01-success.log",
+            "hash": "96c6bb2f9e863db0cee3dd8c27b4cc623fafb142c82a025a444706bfb1cb86b3"
+        },
+        {
+            "date": 1701028938048,
+            "name": "F:\\Important\\HK\\task-backend\\logs\\winston\\successes\\phu-2023-27-11-02-success.log",
+            "hash": "92b4bf2636402f92d2f852db78dd0b9bf7598f7218c6e09aadc97af2caf666b8"
+        },
+        {
+            "date": 1701087256981,
+            "name": "F:\\Important\\HK\\task-backend\\logs\\winston\\successes\\phu-2023-27-11-18-success.log",
+            "hash": "a55bd9fbad3d7e4b8c536148e312c05430bb3d41f3c39ce235397da92d28475d"
+        },
+        {
+            "date": 1701091541264,
+            "name": "F:\\Important\\HK\\task-backend\\logs\\winston\\successes\\phu-2023-27-11-19-success.log",
+            "hash": "6d67176dae3d84264f76d473a305d3c20aa62c2b36c32d54d7cca579f02a82c3"
+        },
+        {
+            "date": 1701094793664,
+            "name": "F:\\Important\\HK\\task-backend\\logs\\winston\\successes\\phu-2023-27-11-20-success.log",
+            "hash": "e6c18970b3bcb8590a1d6082a278da7d81be7c983add22cad163e9daf579c72b"
+        }
+    ],
+    "hashType": "sha256"
+}

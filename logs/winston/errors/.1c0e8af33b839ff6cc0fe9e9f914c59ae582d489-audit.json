@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Important\\HK\\backend-whiteboard\\logs\\winston\\errors\\.1c0e8af33b839ff6cc0fe9e9f914c59ae582d489-audit.json",
+    "files": [
+        {
+            "date": 1702593150012,
+            "name": "F:\\Important\\HK\\backend-whiteboard\\logs\\winston\\errors\\phu-2023-15-12-04-error.log",
+            "hash": "be82b9e0c378582766ecd09ea9ec48f6b780c68f86db990683911f63eeaed6b7"
+        },
+        {
+            "date": 1702596854821,
+            "name": "F:\\Important\\HK\\backend-whiteboard\\logs\\winston\\errors\\phu-2023-15-12-05-error.log",
+            "hash": "b44cf53f995dbc98f27804ad2516d718e3954b89974b7b171ea42f1e00d6febf"
+        },
+        {
+            "date": 1702598480256,
+            "name": "F:\\Important\\HK\\backend-whiteboard\\logs\\winston\\errors\\phu-2023-15-12-06-error.log",
+            "hash": "7318b3fa8d612293b53c9723ac6e60b0d7ea45921e4a40873f7156800d1d89ba"
+        },
+        {
+            "date": 1702602395240,
+            "name": "F:\\Important\\HK\\backend-whiteboard\\logs\\winston\\errors\\phu-2023-15-12-07-error.log",
+            "hash": "223d821700c7ebbbd3d2ae8887cabf69149e9d25c2182e08c68655c3acf7cde0"
+        }
+    ],
+    "hashType": "sha256"
+}

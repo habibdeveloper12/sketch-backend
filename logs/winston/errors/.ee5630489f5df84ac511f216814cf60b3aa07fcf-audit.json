@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\habib\\university-management-auth-service\\logs\\winston\\errors\\.ee5630489f5df84ac511f216814cf60b3aa07fcf-audit.json",
+    "files": [
+        {
+            "date": 1700502265107,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-20-11-23-error.log",
+            "hash": "4516c750fee835c07808ded706b5eac919a069a9e6d286294fcb0e0acf3ffbdf"
+        },
+        {
+            "date": 1700506214006,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-21-11-00-error.log",
+            "hash": "5b327e9f07400aeaf054b78f88356b025dc094e5ea7346cccd872cee9a83cece"
+        },
+        {
+            "date": 1700506807730,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-21-11-01-error.log",
+            "hash": "a68468cc4793a4b8f45235b716dba23e7a932c28445ed860643d6b793b3d1b44"
+        },
+        {
+            "date": 1700556897799,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-21-11-14-error.log",
+            "hash": "8afd6cdb333339c119b7cc426b54337089047b002134d27ca86d4e2d0a6974ef"
+        },
+        {
+            "date": 1700557522030,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-21-11-15-error.log",
+            "hash": "cc5ec286c67faf7c41efce0afec1e9b0bc348a957a4048e6d2a0834e45b86b44"
+        },
+        {
+            "date": 1700567159282,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-21-11-17-error.log",
+            "hash": "b441df67b1b3998972230b05d65da9950067608d9fb9335bbda0a8a2f54311d1"
+        },
+        {
+            "date": 1700568306553,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-21-11-18-error.log",
+            "hash": "b0b3aeb8d49e03d0f2d6b13d08b0d17ce45321f6e089072e04ed6f6c0d3361b7"
+        },
+        {
+            "date": 1700583449913,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-21-11-22-error.log",
+            "hash": "6fad8fb679ccf783fc18ef75c65abd8cca162680607eb26ff85abaaff42cfa3e"
+        }
+    ],
+    "hashType": "sha256"
+}

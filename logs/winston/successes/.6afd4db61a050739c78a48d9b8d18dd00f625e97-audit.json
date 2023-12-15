@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\habib\\university-management-auth-service\\logs\\winston\\successes\\.6afd4db61a050739c78a48d9b8d18dd00f625e97-audit.json",
+    "files": [
+        {
+            "date": 1700502265090,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-20-11-23-success.log",
+            "hash": "b26f02eeab548935b555591b063890e96b45b9f2b15e543771eaea7cf4a519e9"
+        },
+        {
+            "date": 1700506214002,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-21-11-00-success.log",
+            "hash": "0949e6c04c188b7caf6a70aa30f6182c7d93d778eebc8967b1c5ae010cfc41a0"
+        },
+        {
+            "date": 1700506807726,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-21-11-01-success.log",
+            "hash": "3d8175967f9bfdff2791f0f181587c44b3bf00912f40c71a6c0ab767d270bff5"
+        },
+        {
+            "date": 1700556897769,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-21-11-14-success.log",
+            "hash": "267fcd86412c42fd288394074bba0e85de146b406b9b50301554a264d830b1fe"
+        },
+        {
+            "date": 1700557642692,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-21-11-15-success.log",
+            "hash": "7025a54c2ef31e448802d31a67b8b00ef74f283701038400b4b65861fc38ae76"
+        },
+        {
+            "date": 1700567159264,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-21-11-17-success.log",
+            "hash": "081d43b7dd1bb0646d17435fb4ce8880d83253cee4bb16b43febe451af01adb8"
+        },
+        {
+            "date": 1700568306539,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-21-11-18-success.log",
+            "hash": "25349593d633e41e5769f8f594832a110ceaeb6b19ba32067a81841cb6451467"
+        },
+        {
+            "date": 1700583449899,
+            "name": "F:\\habib\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-21-11-22-success.log",
+            "hash": "9d00b5a44017118dde1c1edc12ac88a08fa0b9c66ce3b474d6e80a1fa93366af"
+        }
+    ],
+    "hashType": "sha256"
+}
